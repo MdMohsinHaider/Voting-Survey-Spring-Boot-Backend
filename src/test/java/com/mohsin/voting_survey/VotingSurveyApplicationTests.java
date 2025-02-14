@@ -1,0 +1,13 @@
+package com.mohsin.voting_survey;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VotingSurveyApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
